@@ -1,4 +1,5 @@
 /* main.c */
+/* This is a commented which has been added to the original file */
 #include <stdio.h>
 
 #include "askname.h"
